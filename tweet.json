@@ -1,0 +1,130 @@
+{
+    'created_at': 'Fri Jan 11 21: 18: 47 +0000 2019',
+    'id': 1083835639534096385,
+    'id_str': '1083835639534096385',
+    'text': "Bon, ce soir, je vais pas faire Terre - Lune... demain, j'ai RÉVOLUTION ! \n\n#Acte9 \n#MacronDémission \n#Castaner VS… https://t.co/O9Z06DBKS0",
+    'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>',
+    'truncated': True,
+    'in_reply_to_status_id': None,
+    'in_reply_to_status_id_str': None,
+    'in_reply_to_user_id': None,
+    'in_reply_to_user_id_str': None,
+    'in_reply_to_screen_name': None,
+    'user': {
+        'id': 893498758251630593,
+        'id_str': '893498758251630593',
+        'name': 'Sabatié Denis',
+        'screen_name': 'vigiciel',
+        'location': 'Les deux pieds sur terre ',
+        'url': None,
+        'description': None,
+        'translator_type': 'none',
+        'protected': False,
+        'verified': False,
+        'followers_count': 266,
+        'friends_count': 299,
+        'listed_count': 0,
+        'favourites_count': 5115,
+        'statuses_count': 3293,
+        'created_at': 'Fri Aug 04 15: 47: 59 +0000 2017',
+        'utc_offset': None,
+        'time_zone': None,
+        'geo_enabled': False,
+        'lang': 'fr',
+        'contributors_enabled': False,
+        'is_translator': False,
+        'profile_background_color': 'F5F8FA',
+        'profile_background_image_url': '',
+        'profile_background_image_url_https': '',
+        'profile_background_tile': False,
+        'profile_link_color': '1DA1F2',
+        'profile_sidebar_border_color': 'C0DEED',
+        'profile_sidebar_fill_color': 'DDEEF6',
+        'profile_text_color': '333333',
+        'profile_use_background_image': True,
+        'profile_image_url': 'http: //pbs.twimg.com/profile_images/893501910224965633/gXD3wCTI_normal.jpg',
+        'profile_image_url_https': 'https: //pbs.twimg.com/profile_images/893501910224965633/gXD3wCTI_normal.jpg',
+        'profile_banner_url': 'https: //pbs.twimg.com/profile_banners/893498758251630593/1546514891',
+        'default_profile': True,
+        'default_profile_image': False,
+        'following': None,
+        'follow_request_sent': None,
+        'notifications': None
+    },
+    'geo': None,
+    'coordinates': None,
+    'place': None,
+    'contributors': None,
+    'is_quote_status': False,
+    'extended_tweet': {
+        'full_text': "Bon, ce soir, je vais pas faire Terre - Lune... demain, j'ai RÉVOLUTION ! \n\n#Acte9 \n#MacronDémission \n#Castaner VS #LesGitansEnColère \n\nÇa va danser !",
+        'display_text_range': [
+            0,
+            150
+        ],
+        'entities': {'hashtags': [
+                {'text': 'Acte9', 'indices': [
+                        76,
+                        82
+                    ]
+                },
+                {'text': 'MacronDémission', 'indices': [
+                        84,
+                        100
+                    ]
+                },
+                {'text': 'Castaner', 'indices': [
+                        102,
+                        111
+                    ]
+                },
+                {'text': 'LesGitansEnColère', 'indices': [
+                        115,
+                        133
+                    ]
+                }
+            ], 'urls': [], 'user_mentions': [], 'symbols': []
+        }
+    },
+    'quote_count': 0,
+    'reply_count': 0,
+    'retweet_count': 0,
+    'favorite_count': 0,
+    'entities': {
+        'hashtags': [
+            {'text': 'Acte9', 'indices': [
+                    76,
+                    82
+                ]
+            },
+            {'text': 'MacronDémission', 'indices': [
+                    84,
+                    100
+                ]
+            },
+            {'text': 'Castaner', 'indices': [
+                    102,
+                    111
+                ]
+            }
+        ],
+        'urls': [
+            {
+                'url': 'https: //t.co/O9Z06DBKS0',
+                'expanded_url': 'https: //twitter.com/i/web/status/1083835639534096385',
+                'display_url': 'twitter.com/i/web/status/1…',
+                'indices': [
+                    116,
+                    139
+                ]
+            }
+        ],
+        'user_mentions': [],
+        'symbols': []
+    },
+    'favorited': False,
+    'retweeted': False,
+    'filter_level': 'low',
+    'lang': 'fr',
+    'timestamp_ms': '1547241527814'
+}
