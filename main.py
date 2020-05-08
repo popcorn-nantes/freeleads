@@ -57,7 +57,7 @@ class LeadStreamer(TwythonStreamer):
                 print(BColors.OKBLUE + "TECH" + BColors.ENDC)
                 for rhword in RH:
                     if rhword in text_lowered or rhword in hashtags:
-                        lead_id = leads.insert_one(data).inserted_id
+                        #lead_id = leads.insert_one(data).inserted_id
                         print(BColors.OKGREEN + "LEAD" + BColors.ENDC)
                         self.post(url)
                         break

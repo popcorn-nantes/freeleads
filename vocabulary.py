@@ -7,18 +7,19 @@ BANS = ["émission", "emission", "émissions", "emissions",
 ]
 
 TECHS = [
-    "python", "django", "flask", "scrapy", "scikit",
+    "python", "django", "flask", "scrapy", "scikit", 
     "ruby", "rails", #"sinatra",
-    "javascript", "vuejs", "nodejs", "reactjs", "angularjs", "emberjs", "vue-js", "node-js", "react-js", "angular-js", "ember-js",
+    "js", "javascript", "vuejs", "nodejs", "react","reactjs", "angular", "angularjs", 
+    "emberjs", "vue-js", "node-js", "node", "react-js", "angular-js", "ember-js",
     "typescript", "type-script",
     "C++",
-    "docker", "kubernetes", "k8",
+    "docker", "kubernetes", "k8", "ansible", 
     "java", "spring",
     "scala", "hadoop",
     "php", "symphony", "laravel", "wordpress",
     "css", 
     "golang", #"hugo",
-    "kotlin", "android"
+    "kotlin", "android",
     "swift", "ios",
     #".net, ,
     #"c#, ,
@@ -47,5 +48,5 @@ RH = [
 ]
 
 LOCALISATION = [
-    "nantes", "44", "loire-atlantique", "remote", "à distance", "teletravail", "télétravail", "tele-travail", "télé-travail"
+    "nantes", "44", "loire-atlantique", "remote", "à distance", "a distance", "teletravail", "télétravail", "tele-travail", "télé-travail"
 ]
