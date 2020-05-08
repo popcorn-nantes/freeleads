@@ -12,10 +12,10 @@ leads = db.lead
 
 
 SLACK_API_TOKEN = os.environ.get('SLACK_API_TOKEN')
-TWITTER_APP_KEY = os.environ.get('SLACK_API_TOKEN')
-TWITTER_APP_SECRET = os.environ.get('SLACK_API_TOKEN')
-TWITTER_OAUTH_TOKEN = os.environ.get('SLACK_API_TOKEN')
-TWITTER_OAUTH_TOKEN_SECRET = os.environ.get('SLACK_API_TOKEN')
+TWITTER_APP_KEY = os.environ.get('TWITTER_APP_KEY')
+TWITTER_APP_SECRET = os.environ.get('TWITTER_APP_SECRET')
+TWITTER_OAUTH_TOKEN = os.environ.get('TWITTER_OAUTH_TOKEN')
+TWITTER_OAUTH_TOKEN_SECRET = os.environ.get('TWITTER_OAUTH_TOKEN_SECRET')
 
 
 class BColors:
