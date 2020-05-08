@@ -5,10 +5,10 @@ import slack
 from vocabulary import BANS, TECHS, RH
 
 
-client = MongoClient()
-db = client.freeleads
-tweets = db.tweet
-leads = db.lead
+# client = MongoClient()
+# db = client.freeleads
+# tweets = db.tweet
+# leads = db.lead
 
 
 SLACK_API_TOKEN = os.environ.get('SLACK_API_TOKEN')
@@ -53,7 +53,7 @@ class LeadStreamer(TwythonStreamer):
 
         for tech in TECHS:
             if tech in text_lowered or tech in hashtags:
-                tweet_id = tweets.insert_one(data).inserted_id
+                #tweet_id = tweets.insert_one(data).inserted_id
                 print(BColors.OKBLUE + "TECH" + BColors.ENDC)
                 for rhword in RH:
                     if rhword in text_lowered or rhword in hashtags:
