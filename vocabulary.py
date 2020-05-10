@@ -21,6 +21,7 @@ TECHS = [
     "golang", #"hugo",
     "kotlin", "android",
     "swift", "ios",
+    "dart", "flutter",
     #".net, ,
     #"c#, ,
 ]
