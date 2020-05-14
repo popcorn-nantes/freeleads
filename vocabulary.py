@@ -8,44 +8,38 @@ BANS = ["émission", "emission", "émissions", "emissions",
 
 TECHS = [
     "python", "django", "flask", "scrapy", "scikit", 
-    "ruby", "rails", #"sinatra",
-    "js", "javascript", "vuejs", "nodejs", "react","reactjs", "angular", "angularjs", 
+    "ruby", "rails",
+    "js", "javascript", "vuejs", "nodejs", "react","reactjs", "angular", "angularjs",
     "emberjs", "vue-js", "node-js", "node", "react-js", "angular-js", "ember-js",
     "typescript", "type-script",
     "C++",
-    "docker", "kubernetes", "k8", "ansible", 
+    "docker", "kubernetes", "k8", "ansible",
     "java", "spring",
     "scala", "hadoop",
     "php", "symphony", "laravel", "wordpress",
-    "css", 
-    "golang", #"hugo",
+    "css",
+    "golang",
     "kotlin", "android",
     "swift", "ios",
     "dart", "flutter",
-    #".net, ,
-    #"c#, ,
+    # FIXME this triggers too much tweets ".net",
+    # FIXME this triggers too much tweets "c#",
 ]
 
 QUALIFY = [
     "developpeur", "développeur", "developpeurs", "développeurs",
-    "dev", "devs", "devop", "devops", 
+    "dev", "devs", "devop", "devops",
     "ingénieur", "ingenieur", "ingénieurs", "ingenieurs"
-    "fullstack", "fullstacks", "stack", "full-stack", "full-stacks"
+    "fullstack", "fullstacks", "stack", "full-stack", "full-stacks",
+    "backend", "backends", "back-end", "back-ends", "back",
+    "frontend", "frontends", "front-end", "front-ends", "front",
 ]
 
 RH = [
-    #"recrute", "recrutent", "recrutes"
-    #"recrutement", "recrutements",
-    #"besoin", "besoins",
-    "mission", "missions", 
+    "mission", "missions",
     "freelance", "freelances", "free-lance", "free-lances",
     "frees-lances",
     "free lance", "free lances", "frees lances",
-    #"cherche", "cherchent",
-    #"recherche", "recherchent",
-    #"offre", "offres", "offrent"
-    #"job", "jobs", 
-    #"bosser", "bossessera", "bosses"
 ]
 
 LOCALISATION = [

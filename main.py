@@ -26,7 +26,7 @@ class LeadStreamer(TwythonStreamer):
             return
         self.detect_lead(data)
 
-    def on_error(self, status_code, data):
+    def on_error(self, status_code, data, headers=None):
         print(status_code)
         print(data)
         self.disconnect()
